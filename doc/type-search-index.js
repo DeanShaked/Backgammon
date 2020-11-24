@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Backgammon","l":"Board"},{"p":"Backgammon","l":"Coordinates"},{"p":"Backgammon","l":"Dice"},{"p":"Backgammon","l":"GUI"},{"p":"Backgammon","l":"ImageIcons"},{"p":"Backgammon","l":"Main"},{"p":"Backgammon","l":"Player"},{"p":"Backgammon","l":"Rules"},{"p":"Backgammon","l":"Slot"}]
